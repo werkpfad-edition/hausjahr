@@ -1,28 +1,13 @@
-# Werkpfad Edition – Digitale Arbeitsmaterialien
-Das erste Jahr im eigenen Haus · Lukas Feldner
-Materialversion 1.0 · 16. September 2026
+# Werkpfad Edition – Hausbuch Ausgabe 2.1
 
-## Womit beginnen?
-Speichern Sie eine eigene Kopie von Hausorganisation-leer.xlsx. Öffnen Sie zuerst START, danach Hausprofil. Das Startblatt erklärt Eingaben und Ergebnisse. Die Originalvorlage können Sie unverändert für einen neuen Arbeitsbestand aufheben.
+Dauerhafte Leseradresse: https://werkpfad-edition.github.io/hausjahr/
 
-## Welche Datei wofür?
-- Hausorganisation-leer.xlsx: Startblatt und acht Register für Ihre eigenen Angaben. 60 vorbereitete Zeilen je Hauptregister, 50 zusätzliche Zeilen für Ereignisse und Maßnahmen. Das Hausprofil enthält feste Feldbezeichnungen, aber keine Musterwerte.
-- Hausorganisation-Muster.xlsx: dieselbe Struktur mit erfundenen Beispielen. Diese Datei hilft beim Verstehen; beginnen Sie Ihre eigene Hausakte mit der Leerdatei.
-- Arbeitsblaetter-leer.pdf: W01–W20 und Sammelregister zum Ausdrucken und Ausfüllen.
-- Arbeitsblaetter-Muster.pdf: ausgefüllte fiktive Beispiele zu W01–W20.
-- Monatsbegleiter.pdf: zwölf Arbeitsschwerpunkte mit Raum für eigene Ergebnisse.
+Aktuell: Hausbuch-Arbeitsmaterialien-2.1.pdf – elf Werkzeuge, elf A4-Seiten, Stand 18. September 2026. In Originalgröße drucken. Das PDF enthält keine interaktiven Formularfelder. Für Papierführung und persönliche Kopien; sensible Hausdaten gehören nicht in das öffentliche Repository.
 
-## Papier oder digital
-Wählen Sie einen führenden Bestand. Pflegen Sie Hausdaten dort. Die Beispiele begleiten die Arbeit, ihre Daten gehören nicht in Ihre Hausakte.
+Arbeitsblaetter-leer.pdf ist derselbe aktuelle Download unter dem bisherigen Dateinamen. Die ursprüngliche Fassung bleibt unter archiv/1.0/Arbeitsblaetter-leer.pdf verfügbar.
 
-## Eingeben und speichern
-Ihre Angaben tragen Sie in die hellen Eingabezeilen ein. Graue Ergebnisfelder rechnen Zahlungssumme, Rücklagenendbestand und Verbrauchsdifferenz. Alle notwendigen Formeln und Druckeinstellungen sind eingerichtet. Unbekannte Angaben bleiben leer; notieren Sie dazu eine nächste Handlung unter Aufgaben Verlauf.
+Die bisherigen XLSX-Dateien, das ausgefüllte Muster und der Monatsbegleiter gehören ausschließlich zur früheren Ausgabe 1.0. Ihre Direktlinks bleiben bestehen; keine neue XLSX-Fassung wird behauptet.
 
-Speichern Sie regelmäßig. Halten Sie eine zusätzliche Sicherung getrennt von der Arbeitskopie vor. Teilen Sie persönliche Hausdaten nur mit berechtigten Personen. Passwörter und Zugangscodes gehören nicht in diese Datei.
+Korrekturen: noch keine nachträglichen Korrekturen der Ausgabe 2.1.
 
-## Updates
-Aktualisierte leere Vorlagen und Korrekturhinweise erscheinen künftig auf derselben Downloadseite. Vergleichen Sie die Versionsnummer, bevor Sie eine neue Vorlage verwenden. Ihre persönlichen Einträge werden durch einen Download nicht automatisch übertragen. Bewahren Sie Ihren bisherigen Arbeitsbestand auf.
-
-## Nutzung und Kontakt
-Die Arbeitsblätter dürfen für die Organisation des eigenen Hauses kopiert und bearbeitet werden. Weitergabe, Veröffentlichung oder kommerzielle Verwertung der Vorlagen benötigen die Zustimmung des Rechteinhabers.
 Kontakt: werkpfadedition@gmail.com
